@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div style=margin:0;><img src="https://raw.githubusercontent.com/arashjkh/arashjkh/main/mobius_ring.gif" alt="mobius ring by jn3oo8" width=360 /></div>
+<sub><sup>art: mobius ring by jn3oo8</sup></sub>
+
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=arashjkh&show_icons=true&theme=dark&count_private=true&hide_rank=true) -->
+
 <!--
 **arashjkh/arashjkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
