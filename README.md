@@ -1,5 +1,5 @@
 ### 🌀 Building on loops with no edges.
-I code like a Möbius strip—twisting ideas into one seamless flow.
+I code like a Möbius strip -- twisting ideas into one seamless flow.
 
 Researcher | Creator | Dreamer of infinite paths.
 
